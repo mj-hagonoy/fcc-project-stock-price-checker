@@ -1,3 +1,5 @@
+//TDDO use DB
+//TODO encode IP for privacy
 let ips = [];
 let _ipMap = {};
 
